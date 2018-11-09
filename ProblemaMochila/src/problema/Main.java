@@ -1,3 +1,6 @@
+//João Vitor Moreira de Sousa
+//Lucas Nunes Santana
+
 package problema;
 
 public class Main {
